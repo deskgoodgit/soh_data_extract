@@ -1,4 +1,4 @@
-# soh_data_extract
+# SOH Data Extraction Tool
 Tool for extracting data from SOH using WooCommerce API 
 
 To use the tool, create a config.ini file copy the following lines to the file.
